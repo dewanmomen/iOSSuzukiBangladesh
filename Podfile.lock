@@ -1,0 +1,46 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking+ImageActivityIndicator (1.0.1):
+    - AFNetworking (~> 2.0)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - GoogleMaps (1.9.2)
+  - HexColors (2.2.1)
+  - REFrostedViewController (2.4.8)
+  - TSMessages (0.9.12):
+    - HexColors (~> 2.2.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.0)
+  - AFNetworking+ImageActivityIndicator (~> 1.0)
+  - GoogleMaps
+  - REFrostedViewController (~> 2.4)
+  - TSMessages
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  AFNetworking+ImageActivityIndicator: 471ddeb0e4d1083a05afa64672280a5e96bf9d0b
+  GoogleMaps: 56aac0f356383bab283c731acb1e687c51de6472
+  HexColors: abfd172e329dab59888614ccba6f216cec59289d
+  REFrostedViewController: a893b4979ba1f200c547aef9ff4c3fd5a18f5923
+  TSMessages: c8cc7b80f2a833af533872cd02010cac061532cc
+
+COCOAPODS: 0.39.0
